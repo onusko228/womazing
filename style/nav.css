@@ -58,7 +58,7 @@
   background-image: url(../images/icons/cart.svg);
   background-repeat: no-repeat;
 }
-@media screen and (max-width: 992px;) {
+@media screen and (max-width: 992px) {
   .nav__list {
     display: none;
     flex-direction: column;
@@ -79,8 +79,6 @@
     letter-spacing: 0.02em;
     transition: color 0.5s linear;
   }
-}
-@media screen and (max-width: 992px;) {
 }
 .hero {
   margin-bottom: 130px;
@@ -307,7 +305,7 @@
   padding-bottom: 25px;
 }
 /* -------------------------- */
-/* -------------footer------------- */
+/* -------------footer--------- */
 /* -------------------------- */
 
 .footer {
