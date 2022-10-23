@@ -295,13 +295,13 @@
   background-size: cover;
 }
 .advantages__item--quality::before {
-  background-image: url(./img/advantages/quality.svg);
+  background-image: url(../img/advantages/quality.svg);
 }
 .advantages__item--fast::before {
-  background-image: url(./img/advantages/fast.svg);
+  background-image: url(../img/advantages/fast.svg);
 }
 .advantages__item--responsibility::before {
-  background-image: url(./img/advantages/responsibility.svg);
+  background-image: url(../img/advantages/responsibility.svg);
 }
 .advantages__card-title {
   padding-bottom: 25px;
