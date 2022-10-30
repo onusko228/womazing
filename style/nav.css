@@ -179,6 +179,22 @@
     padding-top: 15px;
   }
 }
+@media screen and (max-width: 768px) {
+  .collection__item {
+    margin-right: 15px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .collection__item {
+    margin-right: 10px;
+  }
+
+  .collection__item-title {
+    font-size: 14px;
+    padding-top: 15px;
+  }
+}
+
 /* --------------------------- */
 /* ----------------collection------------ */
 /* ---------------------------------------*/
